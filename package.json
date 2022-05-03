@@ -1,0 +1,27 @@
+{
+  "name": "maiores-questionamentos-da-humanidade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "music",
+    "suco",
+    "laranja"
+  ],
+  "bin": {
+    "maiores-questionamentos-da-humanidade": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/robertotcestari/suco-de-laranja/issues"
+  },
+  "homepage": "https://github.com/robertotcestari/suco-de-laranja",
+  "author": "Roberto Cestari",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "progress": "^2.0.3"
+  }
+}
