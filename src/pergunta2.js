@@ -24,7 +24,7 @@ function handle2() {
       {
         type: "list",
         name: "name",
-        message: "Mas será mesmo?",
+        message: "Boa tarde turma 21...",
         choices,
       },
     ])
