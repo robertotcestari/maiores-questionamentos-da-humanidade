@@ -15,7 +15,7 @@ function playSong (filename) {
 
   const platform = process.platform;
 
-  console.log("... uma das melhores músicas do mundo!🎼 🎸");
+  console.log("🎼 🎸🎼 🎸🎼 🎸🎼 🎸🎼 🎸");
 
   switch (platform) {
     case "linux":
