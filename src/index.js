@@ -17,6 +17,8 @@ console.log(" ");
 console.log("= = = = = = =");
 console.log("Feito carinhosamente para a Turma 21!");
 console.log("Escolha as perguntas mais importantes da humanidade");
+console.log(" ");
+console.log("(para sair a qualquer momento digite ctrl + c)");
 console.log("= = = = = = =");
 console.log(" ");
 console.log(" ");
